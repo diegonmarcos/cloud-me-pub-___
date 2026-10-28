@@ -7,8 +7,8 @@
   "groups": {},
   "repos": [
     {
-      "name": "cloud-me-pub-profiles",
-      "url": "git@github.com:diegonmarcos/cloud-me-pub-profiles.git",
+      "name": "cloud-me-pub-profiles___",
+      "url": "git@github.com:diegonmarcos/cloud-me-pub-profiles___.git",
       "private": false,
       "doc": "Hub of the cloud-me-pub-profiles family (Leaf.y, Nexus.z, Stark.x, Prf-Prs, _Lnktree): its own repos.json subset plus committed symlinks, same model as CG, Fin-CM and cloud. Was cloud-me-profiles (the b_Profiles, Lnktree and myAstro sources); content split into cloud-me-pub-profiles-prf-prs and cloud-me-pub-profiles-_lnktree 2026-10-28."
     },
