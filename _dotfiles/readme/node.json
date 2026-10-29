@@ -5,6 +5,7 @@
   "label": "cloud-me-pub-___",
   "code": "1.2.1.0",
   "kind": "hub",
+  "variant": "hub",
   "description": "Cloud-Me-Pub hub: index of the public cloud-me family",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/cloud-me-pub-___",
